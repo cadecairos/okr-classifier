@@ -1,1 +1,4 @@
 venv/
+
+tokenizer.pickle
+objectives.h5
